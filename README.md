@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm J.</h1>
 <h3 align="center">Dev and Tinkerer for 6 Years.</h3>
 
-🧘Focus>> I’m currently working on Zetro and Studio26
-
-📃Portfolio>> All of my projects will be available at... [https://jexap.github.io/my-stuff/](https://jexap.github.io/my-stuff/)
+📃Portfolio>> All of my projects will soon be available at... [https://zetro.dev/u/jexap/](https://zetro.dev/u/jexap)
 
 📝Contact>> Want to reach me? - **Discord> Jexap**
 
-📣Announcment>> I am coming back to Zetro.dev to continue the legacy !!!
+📣Announcment>> I am working on behind the scenes stuff as of now.
 
 <h3 align="center">Quote</h3>
 
