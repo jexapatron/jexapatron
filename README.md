@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm J.</h1>
-<h3 align="center">Dev and Tinkerer for 6 Years.</h3>
+<h3 align="center">Dev and Tinkerer for 7 Years.</h3>
 
 📃Portfolio>> All of my projects will soon be available at... [https://zetro.dev/u/jexap/](https://zetro.dev/u/jexap)
 
