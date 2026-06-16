@@ -3,7 +3,7 @@
 
 📃Portfolio>> All of my projects will soon be available at... [https://zetro.dev/u/jexap/](https://zetro.dev/u/jexap)
 
-📝Contact>> Want to reach me? - **Discord> Jexap**
+📝Contact>> Want to reach me? - **Discord> Jexap** / **Business Email> contact@zetro.dev**
 
 📣Announcment>> I am working on behind the scenes stuff as of now.
 
